@@ -4,3 +4,4 @@ dnspython
 python-dotenv
 fastapi_jwt_auth
 bcrypt
+uvicorn
