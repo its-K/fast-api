@@ -1,0 +1,8 @@
+version : '3'
+services:
+  web:
+    container_name: fast_app
+    image: fastapp_web
+    build: .
+    ports:
+      - "80:80"
