@@ -1,0 +1,6 @@
+psycopg2
+pymongo
+dnspython
+python-dotenv
+fastapi_jwt_auth
+bcrypt
